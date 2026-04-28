@@ -1,0 +1,10 @@
+To run the Jupyter File ImageAnalysis_DNN_vs_ML.ipynb:
+
+
+- Download the images dataset from Kaggle: https://www.kaggle.com/datasets/awsaf49/cbis-ddsm-breast-cancer-image-dataset
+
+- Run in VS-Code with WSL. 
+
+- Install CUDA, cuDNN, tensorflow to run the DNN on your GPU
+
+- Run Cell 1 and 2 to check setup of GPU for DNN execution on GPU
