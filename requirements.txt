@@ -1,0 +1,10 @@
+pandas
+numpy
+opencv-python
+PyWavelets
+scikit-image
+scikit-learn
+matplotlib
+seaborn
+xgboost
+tensorflow
